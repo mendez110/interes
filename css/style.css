@@ -1,0 +1,58 @@
+body{
+    background-image: url(../source/lolsito.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(255, 255, 255);
+}
+
+body h1{
+    text-align: center;
+    font-size: 60px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 7px 10px ;
+    background-color: black;
+    margin: 0 580px 0 580px;
+}
+
+body p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.caja{
+    margin: 100px 350px 45px 350px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 7px 7px;
+    text-align: center;
+}
+
+.link-container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .button-link {
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #000000;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  .button-link:last-child {
+    margin-right: 0;
+  }
+
+  .button-link:hover {
+    background-color: #ffffff;
+    color:#000000;
+  }
+  
+
+  
+  
